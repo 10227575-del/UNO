@@ -1,8 +1,3 @@
-
-Zaynobiddin Ziyadinov <10203547@philasd.org>
-10:34 AM (0 minutes ago)
-to me
-
 #region VEXcode Generated Robot Configuration
 from vex import *
 import urandom
